@@ -1,0 +1,15 @@
+# Ignore data folder
+data/
+
+# Ignore dataset files
+*.csv
+*.zip
+*.xlsx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
